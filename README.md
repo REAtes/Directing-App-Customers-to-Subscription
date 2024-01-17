@@ -1,10 +1,10 @@
-# Project Title: Directing Customers to Subscription Products through App Behavior Analysis
+# Directing Customers to Subscription Products through App Behavior Analysis
 
 ## Overview
 The primary goal of this project is to convert free users of a financial tracking app into paid members. This conversion will be achieved by building a model that identifies users who are unlikely to enroll in the paid version of the app.
 
 ## Problem Statement
-The project focuses on a fintech company offering both free and paid versions of a financial tracking app. The challenge is to develop a model capable of pinpointing users who are less likely to upgrade to the paid version. This way, the company can strategically allocate its resources, directing marketing efforts toward users who are more likely to convert to paid membership.
+The project centers around a fintech enterprise that provides a financial tracking app in both free and paid versions. The objective is to create a model that can accurately identify users who are less likely to upgrade to the paid version. By doing so, the company can optimize its resources by focusing its marketing efforts on users who are more likely to convert to paid membership.
 
 ## Project Workflow
 
@@ -33,8 +33,8 @@ The project focuses on a fintech company offering both free and paid versions of
 - Use optimization techniques to enhance model accuracy and efficiency.
 
 ### 7. SHAP Summary Plot:
-- Utilize SHAP (SHapley Additive exPlanations) to interpret and explain model predictions.
+- Utilize SHAP (Shapley Additive exPlanations) to interpret and explain model predictions.
 - Generate summary plots to understand the impact of different features on the model's decision-making.
 
 ## Conclusion
-This project aims to address the challenge of converting free users to paid members through app behavior analysis. By following a systematic workflow, including dataset exploration, data visualization, feature engineering, and model building, the goal is to create an effective predictive model. The README provides an overview of each step involved in the project, highlighting the key tasks and methodologies employed to achieve the desired outcome.
+The objective of this project is to tackle the problem of converting users who use the app for free to paid members, using behavior analysis. The project will follow a structured workflow, including exploring the dataset, visualizing the data, engineering the features, and building the model. The aim is to create an efficient predictive model. The README provides an overview of each step in the project, highlighting the main tasks and methodologies used to achieve the intended outcome.
