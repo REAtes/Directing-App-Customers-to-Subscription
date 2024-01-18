@@ -1,4 +1,4 @@
-# Directing Customers to Subscription Products through App Behavior Analysis
+# Directing Customers to Subscription through App Behavior Analysis
 
 ## Overview
 The primary goal of this project is to convert free users of a financial tracking app into paid members. This conversion will be achieved by building a model that identifies users who are unlikely to enroll in the paid version of the app.
